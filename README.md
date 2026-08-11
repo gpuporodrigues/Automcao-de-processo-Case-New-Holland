@@ -1,27 +1,37 @@
-# Automcao-de-processo-Case-New-Holland
-Projeto de automação do processo de MMP (Movimentação de Materiais entre Centros de Custo) da Case New Holland (CNH). O objetivo da solução é eliminar atividades manuais no sistema Workflow Materiais, reduzindo tempo de execução, erros operacionais e retrabalho.
+# Automação de Processo MMP - Case New Holland
 
-A automação é iniciada através de uma planilha Excel e integra tecnologias VBA e Python para realizar todo o fluxo de transferência de saldo de peças entre centros de custo.
+##  Sobre o Projeto
 
-##Tecnologias Utilizadas
-###Excel VBA
+Este projeto foi desenvolvido para automatizar o processo de **MMP (Movimentação de Materiais entre Centros de Custo)** da Case New Holland (CNH).
 
-* Interface do usuário
-* Tratamento e preparação dos dados
-* Gatilho para execução dos scripts Python
-* Controle do fluxo da automação
+A solução elimina atividades manuais realizadas no sistema **Workflow Materiais**, automatizando desde a preparação dos dados no Excel até a criação da solicitação no sistema web.
 
-##Python
+O objetivo é reduzir o tempo de processamento, minimizar erros operacionais e aumentar a produtividade dos usuários responsáveis pelas movimentações de materiais.
 
-* Selenium
-* PyAutoGUI
-* Pandas
-##Benefícios
-* Redução significativa do tempo de processamento.
-* Eliminação de lançamentos manuais repetitivos.
-* Maior confiabilidade dos dados.
-* Padronização do processo de MMP.
-* Redução de erros operacionais.
-* Aumento da produtividade da equipe.
+---
 
-##Stack: Excel VBA, Python, Pandas, Selenium WebDriver e PyAutoGUI.
+##  Tecnologias Utilizadas
+
+- Microsoft Excel
+- VBA (Visual Basic for Applications)
+- Python
+- Pandas
+- Selenium WebDriver
+- PyAutoGUI
+
+---
+
+##  Benefícios
+
+- Redução do tempo de execução do processo.
+- Eliminação de tarefas repetitivas.
+- Diminuição de erros manuais.
+- Padronização das movimentações de materiais.
+- Maior confiabilidade dos dados.
+- Aumento da produtividade operacional.
+
+---
+
+## Ambiente
+
+Automação desenvolvida para utilização interna na **Case New Holland (CNH)**, integrada ao sistema **Workflow Materiais**.
